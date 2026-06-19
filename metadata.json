@@ -1,0 +1,6 @@
+{
+  "name": "Brand Builder",
+  "description": "An application to describe a product and visualize it consistently across multiple advertising mediums (billboards, newspapers, social posts) without people, using Nano-Banana image models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
